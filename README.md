@@ -4,4 +4,4 @@ Este proyecto consiste en la implementación de un CRUD básico de tareas utiliz
 
 El objetivo principal es comprender cómo se estructura un servidor GraphQL, cómo se definen los tipos, resolvers y cómo se integran con una base de datos NoSQL en tiempo real como Firestore.
 
-La aplicación permite crear, leer, actualizar y eliminar tareas mediante operaciones GraphQL. Es una práctica enfocada en el desarrollo de servicios web modernos con tecnologías actuales.
+La aplicación permite crear, leer, actualizar y eliminar tareas mediante operaciones GraphQL. 
